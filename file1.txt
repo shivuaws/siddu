@@ -13,3 +13,5 @@
 added line no. 13
 aded line no 14
 aded line no 15
+welcome to aws cloud
+welcome to azure cloud
