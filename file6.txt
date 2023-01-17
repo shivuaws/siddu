@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 region south india
+=======
+welcom to microsoft azure
+>>>>>>> dev2
